@@ -8,6 +8,7 @@ I'm Jenson, a software engineering industrial placement student currently studyi
 
 ## Learning Journey
 - 🌱 Currently learning ReactJS.
+- ☁️ Currently learning Azure.
 
 ## Recent Projects
 - 🔧 Worked on creating an application in WPF using the Prism application framework.
