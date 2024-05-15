@@ -9,8 +9,8 @@ I'm Jenson, a software engineering industrial placement student currently studyi
 ## Learning Journey
 - 🌱 Currently learning ReactJS.
 - ☁️ Currently learning Azure.
--  ∟ Currently learning AngularJS.
-- 🧠 Currently learning Azure AI Fundamentals.
+-  ∟ Recently completed AngularJS fundamental course on Pluralsight.
+- 🧠 Recently earned AI-900 Azure AI Fundamentals certificate.
 
 ## Recent Projects
 - 🔧 Worked on creating an application in WPF using the Prism application framework.
