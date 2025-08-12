@@ -1,23 +1,25 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Jenson,
 
-I'm Jenson, a software engineering industrial placement student currently studying mathematics and computer science at the University of Bath.
+I am passionate about software engineering, AI, and music.
+
+Check out my [portfolio website](https://jensooon.github.io/portfolio/).
 
 ## About Me
-- 💼 Currently working as a software engineer on an industrial placement.
-- 🎓 Studying Computer Science and Mathematics BSc (Hons) at the University of Bath.
+- 💼 Currently working as a Graduate Software Engineer.
+- 🎓 Graduated with a BSc (Hons) in Computer Science and Mathematics from the University of Bath with First Class Honours.
 
 ## Learning Journey
-- 🌱 Currently learning ReactJS.
-- ☁️ Currently learning Azure.
--  ∟ Recently completed AngularJS fundamental course on Pluralsight.
-- 🧠 Recently earned AI-900 Azure AI Fundamentals certificate.
+- 🌱 Currently exploring AI applications within the music indsutry.
+- ☁️ AI-900 Azure AI Fundamentals and DP-900 Azure Data Fundamentals certificates.
+-  ∟ Completed AngularJS fundamental course on Pluralsight.
 
 ## Recent Projects
-- 🔧 Worked on creating an application in WPF using the Prism application framework.
-- 📝 Involved in the entire project lifecycle, from designing documents to testing the application.
+- 📄 Check out my dissertation on [Improving the Robustness of Music Deepfake Detection](https://github.com/Jensooon/DeezerDetector)
+- 📝 Completed my Industrial Placement at BAE Systems as a Software Engineer, developing and deploying solutions on a wide range of products.
 
 ## Let's Connect!
-- 📫 How to reach me: jenson.wintle@gmail.com
+- 📫 **Email:** [jenson.wintle@gmail.com](mailto:jenson.wintle@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/jenson-w/](https://www.linkedin.com/in/jenson-w/)
 
 (🔨 Currently working on this README page!)
 
